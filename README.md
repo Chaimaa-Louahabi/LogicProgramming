@@ -1,2 +1,2 @@
 # LogicProgramming
-KNAPSACK PROBLEM IN PROLOG
+Knapsack problem in Prolog.
