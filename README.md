@@ -1,0 +1,2 @@
+# LogicProgramming
+KNAPSACK PROBLEM IN PROLOG
